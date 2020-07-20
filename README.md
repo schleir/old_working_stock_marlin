@@ -1,4 +1,5 @@
 # Marlin 3D Printer Firmware
+This is the version that was used before upgrading to skr mini v2.0
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
